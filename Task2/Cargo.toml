@@ -1,7 +1,6 @@
 [package]
-name = "rust"
+name = "Task2"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-soroban-sdk = "21.6.0"

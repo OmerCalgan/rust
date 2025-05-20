@@ -1,3 +1,5 @@
+mod deneme;
+
 struct Customer {
     name: String,
     surname: String,
